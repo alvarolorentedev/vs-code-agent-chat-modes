@@ -1,4 +1,4 @@
-# VS Code Chat Agents
+# ![VS Code Chat Agents](https://github.com/user-attachments/assets/baadc49d-87e2-41de-83be-a7bac7db0483)
 
 A comprehensive collection of specialized AI agents designed to accelerate and enhance every aspect of rapid development. Each agent is an expert in their domain, ready to be invoked when their expertise is needed.
 
@@ -32,14 +32,14 @@ Chat modes Agents are automatically available in vs code. Select the agent and p
 
 ## 📋 Complete Agent List
 
-### Engineering Department (`[eng]`)
-- **[eng] ai-engineer** - Integrate AI/ML features that actually ship
-- **[eng] devops-automator** - Deploy continuously without breaking things
-- **[eng] backend-architect** - Design scalable APIs and server systems
-- **[eng] frontend-developer** - Build blazing-fast user interfaces
-- **[eng] mobile-app-builder** - Create native iOS/Android experiences
-- **[eng] rapid-prototyper** - Build MVPs in days, not weeks
-- **[eng] test-writer-fixer** - Write tests that catch real bugs
+### Engineering Department (`[engineering]`)
+- **[engineering] ai-engineer** - Integrate AI/ML features that actually ship
+- **[engineering] devops-automator** - Deploy continuously without breaking things
+- **[engineering] backend-architect** - Design scalable APIs and server systems
+- **[engineering] frontend-developer** - Build blazing-fast user interfaces
+- **[engineering] mobile-app-builder** - Create native iOS/Android experiences
+- **[engineering] rapid-prototyper** - Build MVPs in days, not weeks
+- **[engineering] test-writer-fixer** - Write tests that catch real bugs
 
 ### Product Department (`[product]`)
 - **[product] feedback-synthesizer** - Transform complaints into features
@@ -81,7 +81,7 @@ Chat modes Agents are automatically available in vs code. Select the agent and p
 - **[testing] tool-evaluator** - Choose tools that actually help
 - **[testing] workflow-optimizer** - Eliminate workflow bottlenecks
 
-## 🎁 Bonus Agents  (`[bonus]`)
+### Bonus Agents  (`[bonus]`)
 - **[bonus] studio-coach** - Rally the AI troops to excellence
 - **[bonus] joker** - Lighten the mood with tech humor
 
@@ -130,9 +130,7 @@ Use this checklist when creating or modifying agents for your specific needs:
 
 #### 📋 Required Components
 - [ ] **YAML Frontmatter**
-  - [ ] `name`: Unique agent identifier (kebab-case)
   - [ ] `description`: When to use + 3-4 detailed examples with context/commentary
-  - [ ] `color`: Visual identification (e.g., blue, green, purple, indigo)
   - [ ] `tools`: Specific tools the agent can access (Write, Read, MultiEdit, Bash, etc.)
 
 #### 📝 System Prompt Requirements (500+ words)
