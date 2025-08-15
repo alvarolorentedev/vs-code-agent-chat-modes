@@ -2,6 +2,8 @@
 
 A comprehensive collection of specialized AI agents designed to accelerate and enhance every aspect of rapid development. Each agent is an expert in their domain, ready to be invoked when their expertise is needed.
 
+based on [contains-studio/agents](https://github.com/contains-studio/agents)
+
 ## 📥 Installation
 
 1. **Download this repository:**
