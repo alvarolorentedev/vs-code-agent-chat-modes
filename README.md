@@ -1,5 +1,5 @@
-# ![VS Code Chat Agents](https://github.com/user-attachments/assets/baadc49d-87e2-41de-83be-a7bac7db0483)
-
+# <img width="350" alt="VS Code Agent Chat Modes" src="https://github.com/user-attachments/assets/baadc49d-87e2-41de-83be-a7bac7db0483" />
+ 
 A comprehensive collection of specialized AI agents designed to accelerate and enhance every aspect of rapid development. Each agent is an expert in their domain, ready to be invoked when their expertise is needed.
 
 based on [contains-studio/agents](https://github.com/contains-studio/agents)
