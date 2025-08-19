@@ -17,6 +17,8 @@ based on [contains-studio/agents](https://github.com/contains-studio/agents)
    cp -r modes/* ~/.config/Code/User/prompts
    # OSX
    cp -r modes/* ~/Library/Application\ Support/Code/User/prompts
+   # Windows
+   xcopy /s modes %APPDATA%\Code\User\prompts
    ```
 
    Or manually copy all the agent files to your vscode `~/.config/Code/User/prompts` directory.
