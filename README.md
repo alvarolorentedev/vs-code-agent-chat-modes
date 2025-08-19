@@ -164,10 +164,8 @@ Chat modes Agents are automatically available in vs code. Select the agent and p
 - **[misc] incident-responder** ([install link](https://vscode.dev/redirect?url=vscode%3Achat-mode%2Finstall%3Furl%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Falvarolorentedev%2Fvs-code-agent-chat-modes%2Frefs%2Fheads%2Fmain%2Fmodes%2F%5Bmisc%5D%2520incident-responder.chatmode.md)): Handle production incidents and outages
 - **[misc] payment-integration** ([install link](https://vscode.dev/redirect?url=vscode%3Achat-mode%2Finstall%3Furl%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Falvarolorentedev%2Fvs-code-agent-chat-modes%2Frefs%2Fheads%2Fmain%2Fmodes%2F%5Bmisc%5D%2520payment-integration.chatmode.md)): Integrate payment systems and handle transactions
 - **[misc] terraform-specialist** ([install link](https://vscode.dev/redirect?url=vscode%3Achat-mode%2Finstall%3Furl%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Falvarolorentedev%2Fvs-code-agent-chat-modes%2Frefs%2Fheads%2Fmain%2Fmodes%2F%5Bmisc%5D%2520terraform-specialist.chatmode.md)): Infrastructure as code with Terraform
-
-### Bonus Agents (`[bonus]`)
-- **[bonus] studio-coach** ([install link](https://vscode.dev/redirect?url=vscode%3Achat-mode%2Finstall%3Furl%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Falvarolorentedev%2Fvs-code-agent-chat-modes%2Frefs%2Fheads%2Fmain%2Fmodes%2F%5Bbonus%5D%2520studio-coach.chatmode.md)): Rally the AI troops to excellence
-- **[bonus] joker** ([install link](https://vscode.dev/redirect?url=vscode%3Achat-mode%2Finstall%3Furl%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Falvarolorentedev%2Fvs-code-agent-chat-modes%2Frefs%2Fheads%2Fmain%2Fmodes%2F%5Bbonus%5D%2520joker.chatmode.md)): Lighten the mood with tech humor
+- **[misc] studio-coach** ([install link](https://vscode.dev/redirect?url=vscode%3Achat-mode%2Finstall%3Furl%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Falvarolorentedev%2Fvs-code-agent-chat-modes%2Frefs%2Fheads%2Fmain%2Fmodes%2F%5Bmisc%5D%2520studio-coach.chatmode.md)): Rally the AI troops to excellence
+- **[misc] joker** ([install link](https://vscode.dev/redirect?url=vscode%3Achat-mode%2Finstall%3Furl%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Falvarolorentedev%2Fvs-code-agent-chat-modes%2Frefs%2Fheads%2Fmain%2Fmodes%2F%5Bmisc%5D%2520joker.chatmode.md)): Lighten the mood with tech humor
 
 
 ## 💡 Best Practices
