@@ -8,6 +8,8 @@ based on [contains-studio/agents](https://github.com/contains-studio/agents) & [
 
 ## 📥 Installation
 
+### All
+
 1. **Download this repository:**
    ```bash
    git clone https://github.com/contains-studio/agents.git
@@ -19,6 +21,9 @@ based on [contains-studio/agents](https://github.com/contains-studio/agents) & [
    ```
 
    Or manually copy all the agent files to your vscode `~/.config/Code/User/prompts` directory.
+
+### One
+1. Use the install link provided in the agent list bellow.
 
 ## 🚀 Quick Start
 
