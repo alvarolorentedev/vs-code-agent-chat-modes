@@ -14,11 +14,11 @@ based on [contains-studio/agents](https://github.com/contains-studio/agents)
 2. **Copy to your chat modes agents directory:**
    ```bash
    # Linux
-   cp -r modes/* ~/.config/Code/User/prompts
+   cp modes/* ~/.config/Code/User/prompts
    # OSX
-   cp -r modes/* ~/Library/Application\ Support/Code/User/prompts
+   cp modes/* ~/Library/Application\ Support/Code/User/prompts
    # Windows
-   xcopy /s modes %APPDATA%\Code\User\prompts
+   xcopy modes %APPDATA%\Code\User\prompts
    ```
 
    Or manually copy all the agent files to your vscode `~/.config/Code/User/prompts` directory.
