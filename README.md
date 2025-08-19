@@ -1,8 +1,10 @@
 # <img width="350" alt="VS Code Agent Chat Modes" src="https://github.com/user-attachments/assets/baadc49d-87e2-41de-83be-a7bac7db0483" />
  
-A comprehensive collection of specialized AI agents designed to accelerate and enhance every aspect of rapid development. Each agent is an expert in their domain, ready to be invoked when their expertise is needed.
+A comprehensive collection of **102 specialized AI agents** designed to accelerate and enhance every aspect of rapid development. Each agent is an expert in their domain, ready to be invoked when their expertise is needed.
 
-based on [contains-studio/agents](https://github.com/contains-studio/agents)
+Covering **9 departments** with agents for engineering, marketing, design, business operations, security, data science, testing, and more.
+
+based on [contains-studio/agents](https://github.com/contains-studio/agents) & [wshobson/agents](https://github.com/wshobson/agents)
 
 ## 📥 Installation
 
@@ -34,29 +36,82 @@ Chat modes Agents are automatically available in vs code. Select the agent and p
 - "What's trending on TikTok that we could build?" → `trend-researcher`
 - "Our app reviews are dropping, what's wrong?" → `feedback-synthesizer`
 - "Make this loading screen more fun" → `whimsy-injector`
+- "Review this code for security vulnerabilities" → `security-auditor`
+- "Optimize this slow database query" → `database-optimizer`
+- "Debug this intermittent production issue" → `debugger`
+- "Write SEO content for our new feature" → `seo-content-writer`
+- "Create a Python API for user management" → `python-pro`
+- "Design a GraphQL schema for our app" → `graphql-architect`
 
 ## 📋 Complete Agent List
 
 ### Engineering Department (`[engineering]`)
 - **[engineering] ai-engineer** - Integrate AI/ML features that actually ship
+- **[engineering] architect-reviewer** - Maintain architectural integrity with SOLID principles
+- **[engineering] backend-architect** - Design scalable APIs and server systems  
+- **[engineering] c-pro** - Write efficient C code with proper memory management
+- **[engineering] code-reviewer** - Expert code review with security and reliability focus
+- **[engineering] cpp-pro** - Modern C++ with RAII, smart pointers, and STL algorithms
+- **[engineering] csharp-pro** - Build robust .NET applications with C# best practices
+- **[engineering] data-engineer** - Build ETL pipelines and analytics infrastructure
+- **[engineering] database-optimizer** - Optimize database performance and queries
+- **[engineering] debugger** - Expert debugging with systematic root cause analysis
+- **[engineering] deployment-engineer** - Automate deployments and infrastructure
 - **[engineering] devops-automator** - Deploy continuously without breaking things
-- **[engineering] backend-architect** - Design scalable APIs and server systems
+- **[engineering] devops-troubleshooter** - Troubleshoot production issues and incidents
+- **[engineering] docs-architect** - Create comprehensive technical documentation
+- **[engineering] dx-optimizer** - Optimize developer experience and productivity
+- **[engineering] elixir-pro** - Build concurrent systems with Elixir and OTP
+- **[engineering] error-detective** - Hunt down and fix elusive bugs
+- **[engineering] flutter-expert** - Cross-platform mobile apps with Flutter
 - **[engineering] frontend-developer** - Build blazing-fast user interfaces
+- **[engineering] golang-pro** - High-performance Go applications and microservices
+- **[engineering] graphql-architect** - Design efficient GraphQL APIs and schemas
+- **[engineering] hr-pro** - Technical recruiting and team management
+- **[engineering] ios-developer** - Native iOS development with Swift
+- **[engineering] java-pro** - Enterprise Java with Spring Boot and modern patterns
+- **[engineering] javascript-pro** - Advanced JavaScript and Node.js development
+- **[engineering] legacy-modernizer** - Modernize and refactor legacy codebases
+- **[engineering] minecraft-bukkit-pro** - Minecraft plugin development with Bukkit
+- **[engineering] ml-engineer** - Machine learning model development and deployment
+- **[engineering] mlops-engineer** - MLOps pipelines and model lifecycle management
 - **[engineering] mobile-app-builder** - Create native iOS/Android experiences
+- **[engineering] mobile-developer** - Cross-platform mobile development
+- **[engineering] network-engineer** - Network architecture and infrastructure
+- **[engineering] performance-engineer** - Optimize application performance and scalability
+- **[engineering] php-pro** - Modern PHP development with frameworks
+- **[engineering] prompt-engineer** - Design effective prompts for AI systems
+- **[engineering] python-pro** - Clean, performant Python with advanced features
 - **[engineering] rapid-prototyper** - Build MVPs in days, not weeks
+- **[engineering] reference-builder** - Create technical references and documentation
+- **[engineering] ruby-pro** - Elegant Ruby development with Rails
+- **[engineering] rust-pro** - Systems programming with Rust safety and performance
+- **[engineering] sales-automator** - Automate sales processes and workflows
+- **[engineering] scala-pro** - Functional programming with Scala and ecosystem
+- **[engineering] seo-structure-architect** - Technical SEO and site architecture
+- **[engineering] sql-pro** - Advanced SQL and database development
+- **[engineering] test-automator** - Comprehensive test automation frameworks
 - **[engineering] test-writer-fixer** - Write tests that catch real bugs
-
-### Product Department (`[product]`)
-- **[product] feedback-synthesizer** - Transform complaints into features
-- **[product] sprint-prioritizer** - Ship maximum value in 6 days
-- **[product] trend-researcher** - Identify viral opportunities
+- **[engineering] tutorial-engineer** - Create engaging technical tutorials
+- **[engineering] typescript-pro** - Type-safe JavaScript with TypeScript
+- **[engineering] unity-developer** - Game development with Unity engine
 
 ### Marketing Department (`[marketing]`)
 - **[marketing] app-store-optimizer** - Dominate app store search results
 - **[marketing] content-creator** - Generate content across all platforms
+- **[marketing] content-marketer** - SEO-optimized content and campaigns
 - **[marketing] growth-hacker** - Find and exploit viral growth loops
 - **[marketing] instagram-curator** - Master the visual content game
 - **[marketing] reddit-community-builder** - Win Reddit without being banned
+- **[marketing] seo-authority-builder** - Build domain authority and backlinks
+- **[marketing] seo-cannibalization-detector** - Identify and fix keyword cannibalization
+- **[marketing] seo-content-auditor** - Audit and optimize existing content
+- **[marketing] seo-content-planner** - Strategic content planning for SEO
+- **[marketing] seo-content-refresher** - Update and refresh content for rankings
+- **[marketing] seo-content-writer** - Write SEO-optimized content that converts
+- **[marketing] seo-keyword-strategist** - Research and strategy for keyword targeting
+- **[marketing] seo-meta-optimizer** - Optimize meta tags and SERP snippets
+- **[marketing] seo-snippet-hunter** - Optimize for featured snippets and rich results
 - **[marketing] tiktok-strategist** - Create shareable marketing moments
 - **[marketing] twitter-engager** - Ride trends to viral engagement
 
@@ -66,6 +121,19 @@ Chat modes Agents are automatically available in vs code. Select the agent and p
 - **[design] ux-researcher** - Turn user insights into product improvements
 - **[design] visual-storyteller** - Create visuals that convert and share
 - **[design] whimsy-injector** - Add delight to every interaction
+
+### Business Department (`[business]`)
+- **[business] context-manager** - Manage context across multi-agent workflows
+- **[business] customer-support** - Handle support tickets and customer communications
+- **[business] legal-advisor** - Draft legal documents and compliance materials
+- **[business] quant-analyst** - Financial modeling and quantitative analysis
+- **[business] risk-manager** - Portfolio risk management and trading strategies
+- **[business] search-specialist** - Expert web research and information gathering
+
+### Product Department (`[product]`)
+- **[product] feedback-synthesizer** - Transform complaints into features
+- **[product] sprint-prioritizer** - Ship maximum value in 6 days
+- **[product] trend-researcher** - Identify viral opportunities
 
 ### Project Management (`[project-management]`)
 - **[project-management] experiment-tracker** - Data-driven feature validation
@@ -79,6 +147,12 @@ Chat modes Agents are automatically available in vs code. Select the agent and p
 - **[studio-operations] legal-compliance-checker** - Stay legal while moving fast
 - **[studio-operations] support-responder** - Turn angry users into advocates
 
+### Security Department (`[security]`)
+- **[security] security-auditor** - Comprehensive security audits and vulnerability assessment
+
+### Data Department (`[data]`)
+- **[data] mermaid-expert** - Create visual diagrams and flowcharts with Mermaid
+
 ### Testing & Benchmarking (`[testing]`)
 - **[testing] api-tester** - Ensure APIs work under pressure
 - **[testing] performance-benchmarker** - Make everything faster
@@ -86,7 +160,12 @@ Chat modes Agents are automatically available in vs code. Select the agent and p
 - **[testing] tool-evaluator** - Choose tools that actually help
 - **[testing] workflow-optimizer** - Eliminate workflow bottlenecks
 
-### Bonus Agents  (`[bonus]`)
+### Miscellaneous (`[misc]`)
+- **[misc] incident-responder** - Handle production incidents and outages
+- **[misc] payment-integration** - Integrate payment systems and handle transactions
+- **[misc] terraform-specialist** - Infrastructure as code with Terraform
+
+### Bonus Agents (`[bonus]`)
 - **[bonus] studio-coach** - Rally the AI troops to excellence
 - **[bonus] joker** - Lighten the mood with tech humor
 
